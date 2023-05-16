@@ -8,7 +8,7 @@ And create your api key here: https://platform.openai.com/account/api-keys
 
 <br>
 
-## Conversational version 
+## Conversational version
 
 <img width="1503" alt="" src="https://user-images.githubusercontent.com/67431758/232078327-2f705756-eb41-4247-8ffa-3177c8659b48.png">
 
