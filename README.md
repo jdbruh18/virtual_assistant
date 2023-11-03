@@ -1,4 +1,4 @@
-# ChatGPT virtual assistant
+# ChatGPT virtual assistant 
 
 <img width="677" alt="" src="https://user-images.githubusercontent.com/67431758/232075610-5be3d4f7-b57f-4d2c-a0f5-d13795ee3e28.png">
 
